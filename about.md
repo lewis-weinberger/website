@@ -10,8 +10,8 @@ and data scientist. (Pronouns: *he, him, his*).
 I originally studied Physics at university, completing a PhD in Astrophysics
 in 2020 at the University of Cambridge's
 [Institute of Astronomy](https://www.ast.cam.ac.uk/). My research focused
-on the inter-galactic medium (IGM) — the stuff *in-between* galaxies — in
-particular how this medium evolved alongside galaxies in the early Universe.
+on the inter-galactic medium (IGM, the stuff *in-between* galaxies), in
+particular how this medium evolved alongside galaxies in the early universe.
 A lot of this work required High Performance Computing (HPC), running
 calculations on [supercomputers](https://www.hpc.cam.ac.uk/).
 
