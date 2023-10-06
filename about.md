@@ -16,7 +16,7 @@ A lot of this work required High Performance Computing (HPC), running
 calculations on [supercomputers](https://www.hpc.cam.ac.uk/).
 
 After this I moved to work in the public sector as an operational researcher,
-where I've found I can apply all the fun analytical parts of Physics to
+where I've found I can apply some of the fun analytical parts of Physics to
 the "real" world (or at least, a world slightly closer to home!).
 
 Outside of work, I enjoy tinkering with computers and software.

@@ -17,6 +17,11 @@ footer {
     box-shadow: 0 50vh 0 50vh #D7F0F0;
 }
 
+h1 span {
+    float: right;
+    font-size: 50%;
+}
+
 img {
     max-width: 100%;
 }
@@ -34,16 +39,19 @@ hr {
     border: 1px solid #B9C8E5;
 }
 
+code {
+    font-size: 20px;
+    font-family: 'Inconsolata', monospace;
+    overflow: auto;
+    background: #EFEFEF;
+    color: #1c1b19;
+    padding: 2px;
+}
+
 .main {
     margin: auto;
     padding: 20px;
     max-width: 640px;
-}
-
-.code {
-    overflow: auto;
-    background: #EFEFEF;
-    color: #000000;
 }
 
 .centre {
