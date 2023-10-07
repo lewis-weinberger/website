@@ -17,9 +17,9 @@ footer {
     box-shadow: 0 50vh 0 50vh #D7F0F0;
 }
 
-h1 span {
+h2 span {
     float: right;
-    font-size: 50%;
+    font-size: 55%;
 }
 
 img {
@@ -39,10 +39,15 @@ hr {
     border: 1px solid #B9C8E5;
 }
 
+.code {
+    background: #EFEFEF;
+    color: #1c1b19;
+    overflow: auto;
+}
+
 code {
     font-size: 20px;
     font-family: 'Inconsolata', monospace;
-    overflow: auto;
     background: #EFEFEF;
     color: #1c1b19;
     padding: 2px;
@@ -58,5 +63,4 @@ code {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
 }
